@@ -1,0 +1,99 @@
+#+OPTIONS: reveal_center:nil reveal_progress:t reveal_history:nil reveal_control:t reveal_title_slide:nil
+#+OPTIONS: reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: toc:nil
+#+REVEAL_TRANS: none
+#+REVEAL_THEME: moon
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="What is GDI: Lightning Talk at WCMPLS 2017">
+#+REVEAL_POSTAMBLE: <div> Created by Tamara Temple &lt;tamara@tamouse.org&gt; </div>
+#+REVEAL_PLUGINS: (markdown notes)
+#+BEGIN_EXPORT html
+<style media="screen">
+@import url("https://fonts.googleapis.com/css?family=Montserrat:700,700i");
+.reveal h1,.reveal h2,.reveal h3,.reveal h4,.reveal h5,.reveal h6 {
+text-transform: inherit; font-family: "Monserrat", sans-serif; font-weight: bold;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Lato:400,400i");
+.reveal section. .reveal div, .reveal p, .reveal ul, .reveal ol, .reveal li, .reveal dl, .reveal dt, .reveal dd,
+.reveal blockquote, .reveal q, .reveal aside, .reveal figure, .reveal figcaption, .reveal article, .reveal header,
+.reveal footer, .reveal span, .reveal i, .reveal b, .reveal em, .reveal strong {
+font-family: "Lato", sans-serif;
+}
+.reveal .slide-number { color: white; }
+</style>
+#+END_EXPORT
+
+* Girl Develop It Minneapolis
+
+  #+BEGIN_EXPORT html
+  <img src="gdi-badge.jpeg" class="" alt="GDI Mpls Badge" />
+  #+END_EXPORT
+
+* GDI Mission
+
+  - non-profit
+  - affordable programs
+  - adult women
+  - learn web and software development
+  - judgement-free
+
+* GDI Vision
+
+  - create network
+  - empowered, confident women
+  - skilled in building beautiful software and web sites
+  - diverse backgrounds
+
+* GDI Values
+
+  - all races, regions, backgrounds, education and income levels
+  - provide powerful, hands-on courses
+  - focus on web sites and mobile applications
+
+* GDI Stats
+
+  - started in 2010
+  - now in 56 cities in the US
+
+* GDI Minneapolis
+
+  - started in 2014
+  - classes in:
+    - HTML & CSS
+    - Website Development Skills
+    - JavaScript
+    - Git, Sass, Ship It
+  - Toast and Tech
+  - Monthly Meetups
+
+* Our Class "Rules"
+
+  - We are here for you!
+  - Every question is important
+  - Help each other learn
+  - Have fun
+
+* Upcoming Events
+
+  - ShipIt Class (Get your website published) - August 12th
+  - Intro to HTML & CSS - August 23rd & 24th
+  - Monthly Meetup - Sep 7th
+  - Three-year Anniversary Party - Sep 14th
+
+    /see the Meetup.com Site for more/
+
+
+* Toast and Tech
+
+  - weekly drop-in study group
+  - Tuesday nights
+  - Canteen, 3255 Bryant, MPLS
+
+
+* Where To Find Us
+
+  [[http://gdiminneapolis.com][GDIMINNEAPOLIS.COM]]
+
+  [[https://www.meetup.com/GDIMpls/][MEETUP.COM/GDIMPLS]]
+
+  [[https://www.meetup.com/GDIMpls/][GITHUB.ORG/GDIMINNEAPOLIS]]
